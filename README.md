@@ -5,12 +5,6 @@ A Computer Science student passionate about building intelligent systems and sca
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhazayed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidqil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaidaqil.work@gmail.com) 
 
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mzaidaqil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mzaidaqil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mzaidaqil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mzaidaqil&icon=5&color=13)](https://visitcount.itsvg.in)
 
